@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mPHP", "mPHP\mPHP.csproj", "{92F3BB5A-3DD9-4B19-B4FD-2C3E354FE472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mPHPRuntime", "mPHP\mPHPRuntime.csproj", "{9D378019-3826-4C60-9208-0236C82234C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92F3BB5A-3DD9-4B19-B4FD-2C3E354FE472}.Debug|x86.ActiveCfg = Debug|x86
+		{92F3BB5A-3DD9-4B19-B4FD-2C3E354FE472}.Debug|x86.Build.0 = Debug|x86
+		{92F3BB5A-3DD9-4B19-B4FD-2C3E354FE472}.Release|x86.ActiveCfg = Release|x86
+		{92F3BB5A-3DD9-4B19-B4FD-2C3E354FE472}.Release|x86.Build.0 = Release|x86
+		{9D378019-3826-4C60-9208-0236C82234C8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9D378019-3826-4C60-9208-0236C82234C8}.Debug|x86.Build.0 = Debug|Any CPU
+		{9D378019-3826-4C60-9208-0236C82234C8}.Release|x86.ActiveCfg = Release|Any CPU
+		{9D378019-3826-4C60-9208-0236C82234C8}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
